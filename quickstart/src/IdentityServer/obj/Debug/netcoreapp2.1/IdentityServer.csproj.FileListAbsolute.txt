@@ -1,0 +1,13 @@
+C:\CodeRef\idserve\quickstart\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.deps.json
+C:\CodeRef\idserve\quickstart\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.json
+C:\CodeRef\idserve\quickstart\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
+C:\CodeRef\idserve\quickstart\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.dll
+C:\CodeRef\idserve\quickstart\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
+C:\CodeRef\idserve\quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
+C:\CodeRef\idserve\quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
+C:\CodeRef\idserve\quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
+C:\CodeRef\idserve\quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfoInputs.cache
+C:\CodeRef\idserve\quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
+C:\CodeRef\idserve\quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache
+C:\CodeRef\idserve\quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
+C:\CodeRef\idserve\quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb
