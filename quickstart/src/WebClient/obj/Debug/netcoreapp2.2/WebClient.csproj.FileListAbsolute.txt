@@ -27,3 +27,5 @@ C:\CodeRef\idserve\quickstart\src\WebClient\obj\Debug\netcoreapp2.2\WebClient.Vi
 C:\CodeRef\idserve\quickstart\src\WebClient\obj\Debug\netcoreapp2.2\WebClient.dll
 C:\CodeRef\idserve\quickstart\src\WebClient\obj\Debug\netcoreapp2.2\WebClient.pdb
 C:\CodeRef\idserve\quickstart\src\WebClient\obj\Debug\netcoreapp2.2\WebClient.csproj.CopyComplete
+C:\CodeRef\idserve\quickstart\src\WebClient\obj\Debug\netcoreapp2.2\WebClient.csprojAssemblyReference.cache
+C:\CodeRef\idserve\quickstart\src\WebClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\CallApi.g.cshtml.cs

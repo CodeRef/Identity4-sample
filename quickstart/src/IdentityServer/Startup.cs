@@ -25,13 +25,13 @@ namespace IdentityServer
             services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_1);
 
             services.AddAuthentication()
-    .AddGoogle("Google", options =>
-    {
-        options.SignInScheme = IdentityServerConstants.ExternalCookieAuthenticationScheme;
+                .AddGoogle("Google", options =>
+                {
+                    options.SignInScheme = IdentityServerConstants.ExternalCookieAuthenticationScheme;
 
-        options.ClientId = "238724645455-0tek4ka8tg8shbl88alobq96s5pc6c3i.apps.googleusercontent.com";
-        options.ClientSecret = "53RsGElmIq4VvabMgm6wKvW2";
-    });
+                    options.ClientId = "238724645455-0tek4ka8tg8shbl88alobq96s5pc6c3i.apps.googleusercontent.com";
+                    options.ClientSecret = "53RsGElmIq4VvabMgm6wKvW2";
+                });
 
             var builder = services.AddIdentityServer()
                 .AddInMemoryIdentityResources(Config.GetIdentityResources())
