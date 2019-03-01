@@ -3,6 +3,7 @@
 
 
 using System;
+using IdentityServer4;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
@@ -21,13 +22,22 @@ namespace IdentityServer
         public void ConfigureServices(IServiceCollection services)
         {
             // uncomment, if you wan to add an MVC-based UI
-            //services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_1);
+            services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_1);
+
+            services.AddAuthentication()
+    .AddGoogle("Google", options =>
+    {
+        options.SignInScheme = IdentityServerConstants.ExternalCookieAuthenticationScheme;
+
+        options.ClientId = "238724645455-0tek4ka8tg8shbl88alobq96s5pc6c3i.apps.googleusercontent.com";
+        options.ClientSecret = "53RsGElmIq4VvabMgm6wKvW2";
+    });
 
             var builder = services.AddIdentityServer()
                 .AddInMemoryIdentityResources(Config.GetIdentityResources())
                 .AddInMemoryApiResources(Config.GetApis())
                 .AddInMemoryClients(Config.GetClients())
-                .AddTestUsers(Config.GetUsers()); 
+                .AddTestUsers(Config.GetUsers());
 
             if (Environment.IsDevelopment())
             {
@@ -47,12 +57,12 @@ namespace IdentityServer
             }
 
             // uncomment if you want to support static files
-            //app.UseStaticFiles();
+            app.UseStaticFiles();
 
             app.UseIdentityServer();
 
             // uncomment, if you wan to add an MVC-based UI
-            //app.UseMvcWithDefaultRoute();
+            app.UseMvcWithDefaultRoute();
         }
     }
 }
