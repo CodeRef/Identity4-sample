@@ -1,0 +1,10 @@
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\bin\Debug\netcoreapp2.2\Client-UP-Grant.deps.json
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\bin\Debug\netcoreapp2.2\Client-UP-Grant.runtimeconfig.json
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\bin\Debug\netcoreapp2.2\Client-UP-Grant.runtimeconfig.dev.json
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\bin\Debug\netcoreapp2.2\Client-UP-Grant.dll
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\bin\Debug\netcoreapp2.2\Client-UP-Grant.pdb
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\obj\Debug\netcoreapp2.2\Client-UP-Grant.csproj.CoreCompileInputs.cache
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\obj\Debug\netcoreapp2.2\Client-UP-Grant.AssemblyInfoInputs.cache
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\obj\Debug\netcoreapp2.2\Client-UP-Grant.AssemblyInfo.cs
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\obj\Debug\netcoreapp2.2\Client-UP-Grant.dll
+C:\CodeRef\idserv4\quickstart\src\Client-UP-Grant\obj\Debug\netcoreapp2.2\Client-UP-Grant.pdb

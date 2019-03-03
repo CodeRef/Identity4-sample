@@ -736,6 +736,7 @@
       "path": "newtonsoft.json/11.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -786,23 +787,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LAB009\\.nuget\\packages\\": {},
+    "C:\\Users\\PlanCZero\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeRef\\idserve\\quickstart\\src\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\CodeRef\\idserv4\\quickstart\\src\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\CodeRef\\idserve\\quickstart\\src\\Client\\Client.csproj",
-      "packagesPath": "C:\\Users\\LAB009\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeRef\\idserve\\quickstart\\src\\Client\\obj\\",
+      "projectPath": "C:\\CodeRef\\idserv4\\quickstart\\src\\Client\\Client.csproj",
+      "packagesPath": "C:\\Users\\PlanCZero\\.nuget\\packages\\",
+      "outputPath": "C:\\CodeRef\\idserv4\\quickstart\\src\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\LAB009\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PlanCZero\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
