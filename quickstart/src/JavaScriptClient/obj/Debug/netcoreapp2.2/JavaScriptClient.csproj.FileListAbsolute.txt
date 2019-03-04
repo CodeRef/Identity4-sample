@@ -12,3 +12,17 @@ C:\CodeRef\idserv4\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaS
 C:\CodeRef\idserv4\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorTargetAssemblyInfo.cache
 C:\CodeRef\idserv4\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.dll
 C:\CodeRef\idserv4\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.pdb
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.deps.json
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.runtimeconfig.json
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.runtimeconfig.dev.json
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.dll
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.pdb
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.csprojAssemblyReference.cache
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.csproj.CoreCompileInputs.cache
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorAssemblyInfo.cache
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorAssemblyInfo.cs
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.AssemblyInfoInputs.cache
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.AssemblyInfo.cs
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorTargetAssemblyInfo.cache
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.dll
+C:\CodeRef\idserve\quickstart\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.pdb

@@ -787,23 +787,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PlanCZero\\.nuget\\packages\\": {},
+    "C:\\Users\\LAB009\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeRef\\idserv4\\quickstart\\src\\Client-UP-Grant\\Client-UP-Grant.csproj",
+      "projectUniqueName": "C:\\CodeRef\\idserve\\quickstart\\src\\Client-UP-Grant\\Client-UP-Grant.csproj",
       "projectName": "Client-UP-Grant",
-      "projectPath": "C:\\CodeRef\\idserv4\\quickstart\\src\\Client-UP-Grant\\Client-UP-Grant.csproj",
-      "packagesPath": "C:\\Users\\PlanCZero\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeRef\\idserv4\\quickstart\\src\\Client-UP-Grant\\obj\\",
+      "projectPath": "C:\\CodeRef\\idserve\\quickstart\\src\\Client-UP-Grant\\Client-UP-Grant.csproj",
+      "packagesPath": "C:\\Users\\LAB009\\.nuget\\packages\\",
+      "outputPath": "C:\\CodeRef\\idserve\\quickstart\\src\\Client-UP-Grant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\PlanCZero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LAB009\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
